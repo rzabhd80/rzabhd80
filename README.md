@@ -22,11 +22,6 @@
   ![Laravel](https://user-images.githubusercontent.com/70465971/171174707-5469675d-86eb-4c51-a6ae-0050c5d61e0e.svg)
   ![php-ar21](https://user-images.githubusercontent.com/70465971/171176219-838ed110-c6c6-4be3-bfbf-c5551923563f.svg)
   
- 
-### Intrests 
-  - Web Application 💻
-  - Web scrapping and web crawling 🕷️ 🕸️
-  - Data Anylistics and ML enthusiast 🧠
   
   
  ### GIthub Status
