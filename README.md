@@ -4,6 +4,7 @@
 
 
  - :speech_balloon: Contact me :)
+
     - [![linkedin](https://user-images.githubusercontent.com/70465971/171170173-923456cb-5c32-4d63-b14e-b9c79f8dc9bf.svg)
 ](https://www.linkedin.com/in/reza-bahadori-442338207/)
      [![telegram](https://user-images.githubusercontent.com/70465971/171170283-0ecdce89-9ef9-4f4b-a6f0-baf6910c0eac.svg)
