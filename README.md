@@ -21,10 +21,9 @@
   ![mysql-ar21](https://user-images.githubusercontent.com/70465971/171176864-aea92ded-e74a-4a12-90df-f98d7216f199.svg)
   ![Laravel](https://user-images.githubusercontent.com/70465971/171174707-5469675d-86eb-4c51-a6ae-0050c5d61e0e.svg)
   ![php-ar21](https://user-images.githubusercontent.com/70465971/171176219-838ed110-c6c6-4be3-bfbf-c5551923563f.svg)
-  
-  
-  
-  
+  ![node](https://user-images.githubusercontent.com/70465971/179369744-7583856f-2b3a-43ab-97d6-4751c27b7a92.png)
+  ![mongodb](https://user-images.githubusercontent.com/70465971/179369838-0001b67f-8149-4f01-8add-59523c707e32.png)
+
   
   
   
