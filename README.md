@@ -17,6 +17,7 @@
 ### Technologies and tools
 
 
+
 - ![python-icon](https://user-images.githubusercontent.com/70465971/171176600-c508888b-d9b1-41ca-b196-523c4905bdd3.svg)
   ![mysql-ar21](https://user-images.githubusercontent.com/70465971/171176864-aea92ded-e74a-4a12-90df-f98d7216f199.svg)
   ![node](https://user-images.githubusercontent.com/70465971/179369744-7583856f-2b3a-43ab-97d6-4751c27b7a92.png)
