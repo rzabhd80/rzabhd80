@@ -1,6 +1,6 @@
 ## Hey there, I`m reza Bahdori :)  👋
 
-###### i`m currently a computer engineering student at [shahid chamran university](https://scu.ac.ir/)
+
 
  - :speech_balloon: Contact me :)
 
